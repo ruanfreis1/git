@@ -1,0 +1,2 @@
+<!Doctype html>
+<!Dotype é um DTD>
